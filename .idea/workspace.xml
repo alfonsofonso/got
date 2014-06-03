@@ -29,7 +29,7 @@
     <file path="$PROJECT_DIR$/../anti/js/socialConnect.js" changelist="39996465-2fea-4001-b255-8a9beab62dde" time="1399283367718" ignored="false" />
     <file path="$PROJECT_DIR$/../anti/js/gamePlay.js" changelist="39996465-2fea-4001-b255-8a9beab62dde" time="1399369271466" ignored="false" />
     <file path="$PROJECT_DIR$/../anti/js/parseGestor.js" changelist="39996465-2fea-4001-b255-8a9beab62dde" time="1399368673925" ignored="false" />
-    <file path="/config.xml" changelist="39996465-2fea-4001-b255-8a9beab62dde" time="1401785155317" ignored="false" />
+    <file path="/config.xml" changelist="39996465-2fea-4001-b255-8a9beab62dde" time="1401785256376" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +106,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="4" selection-start="5402" selection-end="5402" vertical-scroll-proportion="2.397436">
+            <state line="7" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.21794872">
               <folding />
             </state>
           </provider>
@@ -469,7 +469,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="4" selection-start="5402" selection-end="5402" vertical-scroll-proportion="2.397436">
+        <state line="7" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.21794872">
           <folding />
         </state>
       </provider>
