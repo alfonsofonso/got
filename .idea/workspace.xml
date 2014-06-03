@@ -29,6 +29,7 @@
     <file path="$PROJECT_DIR$/../anti/js/socialConnect.js" changelist="39996465-2fea-4001-b255-8a9beab62dde" time="1399283367718" ignored="false" />
     <file path="$PROJECT_DIR$/../anti/js/gamePlay.js" changelist="39996465-2fea-4001-b255-8a9beab62dde" time="1399369271466" ignored="false" />
     <file path="$PROJECT_DIR$/../anti/js/parseGestor.js" changelist="39996465-2fea-4001-b255-8a9beab62dde" time="1399368673925" ignored="false" />
+    <file path="/config.xml" changelist="39996465-2fea-4001-b255-8a9beab62dde" time="1401785155317" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,15 +85,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gamePlay.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/gamePlay.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="assets.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/assets.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,10 +94,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="touchEvents.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="touchEvents.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/touchEvents.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="41" selection-start="1696" selection-end="1701" vertical-scroll-proportion="0.031021899">
+            <state line="70" column="41" selection-start="1696" selection-end="1701" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="77" column="4" selection-start="5402" selection-end="5402" vertical-scroll-proportion="2.397436">
               <folding />
             </state>
           </provider>
@@ -148,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../anti/js/assets.js" />
         <option value="$PROJECT_DIR$/redirect.html" />
         <option value="$PROJECT_DIR$/humans.txt" />
         <option value="$PROJECT_DIR$/js/champions" />
@@ -164,6 +164,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/champions.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/config.xml" />
       </list>
     </option>
   </component>
@@ -287,13 +288,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19061802" sideWeight="0.93526405" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19061802" sideWeight="0.93526405" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -371,11 +372,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/redirect.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="295" selection-end="335" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/humans.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="49" selection-start="286" selection-end="286" vertical-scroll-proportion="0.45454547" />
@@ -466,7 +462,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/touchEvents.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="41" selection-start="1696" selection-end="1701" vertical-scroll-proportion="0.031021899">
+        <state line="70" column="41" selection-start="1696" selection-end="1701" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="4" selection-start="5402" selection-end="5402" vertical-scroll-proportion="2.397436">
           <folding />
         </state>
       </provider>
