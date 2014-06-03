@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.lalluvia.got"
-        version   = "0.0.3">
+        version   = "0.0.4">
 
     <name>Grid of Thrones</name>
 
@@ -52,7 +52,7 @@
     <!-- Plugins can also be added here.
     <plugin name="Geolocation" value="org.apache.cordova.GeoBroker" />
     <plugin name="SplashScreen" value="org.apache.cordova.SplashScreen"/>
-    <!--
+
         <gap:plugin name="Example" />
         A list of available plugins are available at https://build.phonegap.com/docs/plugins
     -->
@@ -73,7 +73,7 @@
     <icon src="res/icon/windows-phone/icon-48.png"  gap:platform="winphone" />
     <icon src="res/icon/windows-phone/icon-173.png" gap:platform="winphone"   gap:role="background" />
 
-    <!-- Define app splash screen for each platform. -->
+     Define app splash screen for each platform. -->
     <gap:splash src="splash.png" />
 
 
