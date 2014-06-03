@@ -59,6 +59,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="32" selection-start="315" selection-end="315" vertical-scroll-proportion="0.24908425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -122,10 +131,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="socialConnect.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="socialConnect.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/socialConnect.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="0" selection-start="4722" selection-end="4722" vertical-scroll-proportion="0.78711987">
+            <state line="125" column="0" selection-start="4722" selection-end="4722" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,8 +164,8 @@
         <option value="$PROJECT_DIR$/js/champions.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/js/socialConnect.js" />
+        <option value="$PROJECT_DIR$/config.xml" />
       </list>
     </option>
   </component>
@@ -408,13 +417,6 @@
         <state line="1" column="12" selection-start="40" selection-end="40" vertical-scroll-proportion="0.030411448" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="65" selection-start="1356" selection-end="1356" vertical-scroll-proportion="0.18681319">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/touchEvents.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="70" column="41" selection-start="1696" selection-end="1701" vertical-scroll-proportion="0.0">
@@ -450,6 +452,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/socialConnect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="0" selection-start="4722" selection-end="4722" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="70" selection-start="1582" selection-end="1582" vertical-scroll-proportion="-21.576923">
@@ -457,9 +466,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/socialConnect.js">
+    <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="0" selection-start="4722" selection-end="4722" vertical-scroll-proportion="0.78711987">
+        <state line="8" column="32" selection-start="315" selection-end="315" vertical-scroll-proportion="0.24908425">
           <folding />
         </state>
       </provider>
