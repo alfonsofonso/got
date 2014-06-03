@@ -111,13 +111,13 @@ window.fbAsyncInit = function() {
 };
 
 // Load the SDK asynchronously
-(function(d){
+/*(function(d){
     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
     if (d.getElementById(id)) {return;}
     js = d.createElement('script'); js.id = id; js.async = true;
     js.src = "//connect.facebook.net/es_ES/all.js";
     ref.parentNode.insertBefore(js, ref);
-}(document));
+}(document));*/
 
 // Here we run a very simple test of the Graph API after login is successful.
 // This getAmigos() function is only called in those cases.
